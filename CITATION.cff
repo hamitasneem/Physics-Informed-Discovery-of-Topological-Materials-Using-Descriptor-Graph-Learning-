@@ -1,34 +1,13 @@
-cff-version: 1.2.0
-message: "If you use this repository, please cite it using the metadata below."
+## Citation
 
-title: "Topological Materials Discovery Using Machine Learning"
+If you use this repository in your research, please cite:
 
-version: "1.1"
+Rehman, T. U. (2026). *Physics-Informed Discovery of Topological Materials Using Descriptor-Graph Learning* (Version 1.0). Zenodo. https://doi.org/10.5281/zenodo.20795017
 
-date-released: 2026-06-22
+### DOI
 
-authors:
+https://doi.org/10.5281/zenodo.20795017
 
-* family-names: "Rehman"
-  given-names: "Tasneem U."
+### GitHub Release
 
-abstract: >
-A machine-learning workflow for the prediction and inverse discovery
-of topological materials using materials informatics, feature
-engineering, and data-driven screening approaches.
-
-keywords:
-
-* topological materials
-* materials informatics
-* machine learning
-* quantum materials
-* spintronics
-* materials discovery
-* data-driven materials science
-
-license: MIT
-
-repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
-
-url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+https://github.com/hamitasneem/Physics-Informed-Discovery-of-Topological-Materials-Using-Descriptor-Graph-Learning-/releases/tag/v1.0
