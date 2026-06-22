@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite it using the metadata below."
+
+title: "Topological Materials Discovery Using Machine Learning"
+
+version: "1.1"
+
+date-released: 2026-06-22
+
+authors:
+
+* family-names: "Rehman"
+  given-names: "Tasneem U."
+
+abstract: >
+A machine-learning workflow for the prediction and inverse discovery
+of topological materials using materials informatics, feature
+engineering, and data-driven screening approaches.
+
+keywords:
+
+* topological materials
+* materials informatics
+* machine learning
+* quantum materials
+* spintronics
+* materials discovery
+* data-driven materials science
+
+license: MIT
+
+repository-code: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
+
+url: "https://github.com/YOUR_USERNAME/YOUR_REPOSITORY"
