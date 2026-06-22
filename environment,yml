@@ -1,0 +1,24 @@
+## Environment Setup
+
+The repository includes an `environment.yml` file for reproducing the computational environment.
+
+Create the environment using:
+
+```bash
+conda env create -f environment.yml
+conda activate topo_ml
+```
+
+After activation, launch Jupyter Lab:
+
+```bash
+jupyter lab
+```
+
+and open:
+
+```text
+Topological_Files_New.ipynb
+```
+
+The notebook should run without modification provided that the extracted `Files` directory is placed in the repository root alongside the notebook.
